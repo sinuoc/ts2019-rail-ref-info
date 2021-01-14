@@ -2,9 +2,18 @@
 
 ## China National Railway Tech Standard
 
-### Gradient Limitation
+### Gradient Limitation 纵断面坡度限制
 
-http://www.jianbiaoku.com/webarbs/book/11149/2755537.shtml
+#### 单机牵引限制坡度  
+蒸汽 20/1000  
+内燃 25/1000  
+电力 30/1000  
+
+
+#### References
+[1] http://www.jianbiaoku.com/webarbs/book/11149/2755537.shtml  
+[2] https://www.bilibili.com/read/cv2025038/  
+
 
 
 
